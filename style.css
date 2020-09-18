@@ -1,0 +1,111 @@
+
+        h1 {
+            font-family: "Raleway", Arial, sans-serif
+        }
+
+        h1 {
+            letter-spacing: 6px;
+            margin-left: 100px;
+        }
+
+        .infoHeader{
+            text-align: center; 
+            margin-top: 50px;
+            color: #5f5f79;
+        }
+        .card{
+            font-family: "Raleway", Arial, sans-serif;
+            margin-top: 95px;
+        }
+        .name{
+            font-size: 20px;
+            
+        }
+
+        .content{
+            display: grid;
+            align-items: center;
+            justify-content: center;
+            
+        }
+
+        #homeButton, #contactButton{
+            
+            
+            color: #5f5f79;
+            text-decoration: none;
+            margin-right: 120px;
+        
+        }
+
+        .header{
+            margin-top: 25px;
+        }
+
+        .img{
+            height: 30px;
+        }
+
+       
+
+        .headshot{
+            margin-top: 5rem;
+            display: grid;
+            margin-right: 35px;
+        }
+.headshotImg{
+    height: 45vh;
+}
+        .aboutMe{
+            display: grid;
+            
+        }
+
+        .contactContent{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            
+        }
+
+        .buttons{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .img1{
+        height: 15vh;
+       
+        }
+
+        .img2{
+            height: 10.5vh;
+           margin-top: 8px;
+        }
+
+        .links{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+margin-top: 100px;
+        }
+
+        .pic1{
+            height: 40vh;
+        }
+
+        .pic2{
+            height: 36vh;
+        }
+
+       .pic1Text{
+        color: #5f5f79;
+        text-decoration: none;
+        margin-bottom: 30px;
+       }
+       .pic2Text{
+        color: #5f5f79;
+        text-decoration: none;
+       }
